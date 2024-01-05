@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TechEnhance/static/css/main.6435c9b0.css",
+    "main.js": "/TechEnhance/static/js/main.1f61d590.js",
+    "index.html": "/TechEnhance/index.html",
+    "main.6435c9b0.css.map": "/TechEnhance/static/css/main.6435c9b0.css.map",
+    "main.1f61d590.js.map": "/TechEnhance/static/js/main.1f61d590.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6435c9b0.css",
+    "static/js/main.1f61d590.js"
+  ]
+}
